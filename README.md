@@ -1,7 +1,15 @@
 ### Hi, Vinicyus here 👋
 
 
-:man_student: **Software engineering student** at [Hyperiondev](https://www.hyperiondev.com)
+👨‍💻 **Software Engineering** at [Hyperiondev](https://www.hyperiondev.com)
+
+👨‍💻 **Analysis and Development of Systems** at [Unicesumar](https://www.unicesumar.edu.br/)
+
+🖥️ **Currently focused** on:
+<div display = "inline">
+  <img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+  <img width ="50" height = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
 <!--
 **Vinypin/Vinypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
