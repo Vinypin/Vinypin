@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, Vinicyus here 👋
+
+
+:man_student: **Software engineering student** at [Hyperiondev](https://www.hyperiondev.com)
 
 <!--
 **Vinypin/Vinypin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
